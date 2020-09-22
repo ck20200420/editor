@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.0",
+    "@tinymce/tinymce-vue": "^3.2.3",
     "element-ui": "^2.13.2",
-    "nuxt": "^2.14.0"
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.0",
+    "tinymce": "^5.4.2"
   },
   "devDependencies": {}
 }
